@@ -1,4 +1,4 @@
-# pythonbitcoin
+# Python BTC Wallet
 This is a simple bitcoin wallet for the Bitcoin Dublin group:
 http://www.meetup.com/Bitcoin-Dublin/
 
